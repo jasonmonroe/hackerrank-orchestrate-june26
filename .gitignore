@@ -1,0 +1,12 @@
+# .gitignore
+
+__pycache__
+
+.env
+.DS_Store
+.idea
+.venv
+.vscode
+
+venv
+

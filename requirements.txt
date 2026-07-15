@@ -1,0 +1,8 @@
+# requirements.txt
+
+numpy
+openai
+opencv-python
+pandas
+Pillow
+python-dotenv
